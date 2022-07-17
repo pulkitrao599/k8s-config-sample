@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: webappdemo
-          image: webapp:v1
+          image: rao26599/webapp:v1
